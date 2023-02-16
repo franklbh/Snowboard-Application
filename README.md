@@ -1,4 +1,4 @@
-# Snowboard-Application
+# Snowboard-Application (Links attached below!)
 •	For snowboard instructors and learners to share experiences, make posts, socialize, and trade snowboards. 
 
 •	Both the frontend and backend consist of JavaScript. 
